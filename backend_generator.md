@@ -40,7 +40,7 @@ E:\project\sar\workspace\2.0\sar[ruoyi]\sar
 E:\project\sar\workspace\2.0\sar\sar[ruoyi]\src\main\java
 ```
 
-## 2. 包结构配置
+## 2. 包结构配置aaaaa
 
 ```
 PackageConfig pc = new PackageConfig();
@@ -86,14 +86,6 @@ src\main\java\com\kd\sar\backend\controller
 	<img src="attachments/Original_directory.png" alt="原目录" width="700">
 </p>
 
-<<<<<<< HEAD
-3. 运行程序
-4. 按照提示输入模块名与表名：
-   ![输入|655](attachments/Import_name.png) 
-5. 输出模块
-   ![生成结果|657](attachments/Generated_result.png)
-   ![生成目录|660](attachments/Generated_directory.png)
-=======
 2. 运行程序
 3. 按照提示输入模块名与表名：
 <p align="center">
@@ -108,7 +100,6 @@ src\main\java\com\kd\sar\backend\controller
 	<img src="attachments/Generated_directory.png" alt="生成目录" width="700">
 </p>
 
->>>>>>> ab552cb (pic change)
 
 
 
