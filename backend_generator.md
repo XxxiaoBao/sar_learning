@@ -78,10 +78,10 @@ src\main\java\com\kd\sar\backend\controller
 1. 配置工作路径为sar模块
    ![原目录|656](attachments/Original_directory.png)
 
-2. 运行程序
-3. 按照提示输入模块名与表名：
+3. 运行程序
+4. 按照提示输入模块名与表名：
    ![输入|655](attachments/Import_name.png) 
-4. 输出模块
+5. 输出模块
    ![生成结果|657](attachments/Generated_result.png)
    ![生成目录|660](attachments/Generated_directory.png)
 
