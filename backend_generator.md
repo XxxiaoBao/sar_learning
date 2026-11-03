@@ -19,13 +19,19 @@ gc.setOutputDir(projectPath + "/src/main/java");
 其中`System.getProperty("user.dir")`指的是当前程序的运行工作目录。
 点击启动键后，选择运行配置：
 
-![修改运行配置|700](attachments/Edit_run_configration.png#pic_center)
-![修改工作目录](attachments/Edit_work_directory.png)
+
+<p align="center">
+	<img src="attachments/Edit_run_configration.png" alt="修改运行配置" width="700">
+</p>
+
+<p align="center">
+	<img src="attachments/Edit_work_directory.png" alt="修改工作目录" width="700">
+</p>
 
 若工作目录为sar模块的目录：
 
 ```
-E:\project\sar\workspace\2.0\sar[ruoyi]\sar
+E:\project\sar\workspace\2.0\sar[ruoyi]\sar 
 ```
 
 则最后生成的 Java 文件输出到：
@@ -45,7 +51,7 @@ pc.setParent("com.kd.sar");
 
 这里决定生成代码的 Java 包路径。
 
-如果输入：
+如果输入：  
 
 ```
 模块名：backend
@@ -76,14 +82,33 @@ src\main\java\com\kd\sar\backend\controller
 
 ## 3. 用例
 1. 配置工作路径为sar模块
-   ![原目录|656](attachments/Original_directory.png)
+<p align="center">
+	<img src="attachments/Original_directory.png" alt="原目录" width="700">
+</p>
 
+<<<<<<< HEAD
 3. 运行程序
 4. 按照提示输入模块名与表名：
    ![输入|655](attachments/Import_name.png) 
 5. 输出模块
    ![生成结果|657](attachments/Generated_result.png)
    ![生成目录|660](attachments/Generated_directory.png)
+=======
+2. 运行程序
+3. 按照提示输入模块名与表名：
+<p align="center">
+	<img src="attachments/Import_name.png" alt="原目录" width="700">
+</p>
+
+4. 输出模块
+<p align="center">
+	<img src="attachments/Generated_result.png" alt="生成结果" width="700">
+</p>
+<p align="center">
+	<img src="attachments/Generated_directory.png" alt="生成目录" width="700">
+</p>
+
+>>>>>>> ab552cb (pic change)
 
 
 
